@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">10 The Most Expensive Car</string>
+
+    <string-array name="namaMobil">
+        <item>Mercedes-Benz Maybach Exelero - 8 Juta USD</item>
+        <item>Koenigsegg CCXR Trevita - 4,8 Juta USD</item>
+        <item>Lamborghini Veneno Roadster - 4,5 Juta USD</item>
+        <item>McLaren P1 GTR - 4,3 Juta USD</item>
+        <item>Limited Edition Bugatti Veyron by Mansory Vivere - 3,4 Juta USD</item>
+        <item>W Motors Lykan Hypersport - 3,4 Juta USD</item>
+        <item>Aston Martin Valkyrie - 3,2 Juta USD</item>
+        <item>Ferrari Pininfarina Sergio - 3 Juta USD</item>
+        <item>Bugatti Chiron - 2,9 Juta USD</item>
+        <item>Koenigsegg One:1 - 2,85 Juta USD</item>
+    </string-array>
+
+    <string-array name="namaDetail">
+        <item>Mungkin orang akan berpikir dua kali apabila ingin membeli mobil seharga 100 miliar. Tapi itu tidak dipermasalahkan oleh rapper bernama Bryan Christopher Williams atau biasa yang dikenal dengan nama panggungnya, Birdman. Birdman, rela mengeluarkan uang sebesar 8 juta USD untuk mobil Mercedes-Benz Maybach Exelero.Sungguh gila memang rapper asal Amerika satu ini. Mercedes-Benz seharga 8 juta USD? Apakah mobil ini benar-benar wajar dihargai sedemikian mahal? Entahlah, yang pasti adalah, Mercedes-Benz Maybach Exelero ini memiliki mesin twin-turbo V12 yang dapat mencapai kecepatan 350 kmh dan memiliki akselerasi 0-60 detik dalam waktu 4,4 detik.</item>
+        <item>Adalah keputusan dari pabrikan, seberapa banyak suatu mobil mau diproduksi. Apakah itu ribuan, ratusan atau puluhan. Semakin sedikit jumlah mobil yang diproduksi, berarti bisa dikatakan bahwa mobil tersebut adalah mobil yang langka. Bisa menyimpannya satu di garasi, pastinya membawa rasa kepuasan tersendiri.Inilah yang dilakukan oleh petinju Floyd Mayweather. Mayweather diketahui membeli sebuah mobil Koenigsegg CCXR Trevita. Ia membelinya dengan harga fantastis, 4,8 juta USD. Koenigsegg adalah perusahaan mobil asal Swedia yang berdiri pada tahun 1994. Perusahaan ini hanya menciptakan 2 mobil CCXR Trevita, dan salah satunya ada di garasi Mayweather.</item>
+        <item>Lamborghini, tidak perlu dijelaskan lagi akan produsen mobil satu ini. Setiap mobil yang diciptakan pastinya keren dan super kencang. Berdiri pada tahun 1963, Lamborghini telah menghasilkan banyak sekali supercar, sport car, serta SUV. Dan kali ini, salah satu supercar yang berhasil masuk dalam daftar mobil termahal dunia adalah Lamborghini Veneno Roadster.Lamborghini Veneno Roadster bukanlah supercar sembarangan. Mobil ini benar-benar didesain dengan menonjolkan segi aerodinasmis dan keamanan. Jangan heran bila Lamborghini menghargai mobil ini seharga 4,5 juta USD. Mobiil legal di jalan, dengan kecepatan maksimum yang mencapai 355 kmh.</item>
+        <item>McLaren bukanlah merk mobil yang bisa dipandang sebelah mata. McLaren automotive sudah bertahun-tahun memproduksi mobil sport dan mewah. Bermarkas di Inggris, McLaren Automotive telah resmi menjadi milik McLaren Technology Group pada tahun 2017. McLaren menciptakan satu mobil yang harganya gila-gilaan yakni McLaren P1 GTR.McLaren P1 GTR ini mobil super cepat yang bisa memacu adrenalin pengendaranya sampai titik maksimal. Selain itu, McLaren P1 GTR juga termasuk mobil langka, hanya ada 35 buah di dunia. Bertenaga 1.000 hp, supercar ini sanggup berlari hingga 362 km per jam. Soal akselesari, McLaren P1 GTR mampu mencapari kecepatan 0-60 dalam waktu 2,4 detik. </item>
+        <item>Dari namanya saja sudah ada embel-embel, limited edition. Ini berarti, mobil satu ini selain dibuat dalam jumlah yang terbatas, harganya juga pasti bisa bikin pusing kepala. Limited Edition bugatti Veyron by Mansoru Vivere, mobil buatan pabrik Bugatti asal Perancis. Bugatti merupakan spesialis pembuat mobil performa tinggi.Dibuat terbatas dan memiliki performa tinggi, harganya juga pasti tidak main-main. Ya, Limited Edition Bugatti Veyron ini dibanderol dengan harga 3,4 juta USD. Ada harga, tentu ada kualitas. Limited Edition Bugatti Veyron bermesin 8.0 liter W16, mampu menghasilkan tenaga 1.200 hp. Top speed dari mobil ini sekitar 407 kmh.</item>
+        <item>Sebuah mobil super sempat dimunculkan dalam franchise Fast and Furious, Furious 7. Mobil tersebut adalah W Motors Lykan Hypersport. Mobil super kencang dan super mahal yang dikendarai oleh Dom, melompati 2 gedung tinggi Abu Dhabi Skyscraper ini menjadi mobil termahal dunia urutan keenam.W Motors Lykan Hypersport pertama kali diluncurkan pada ajang otomotif, Qatar Motor Show di tahun 2013. Inilah mobil yang mendapat julukan Hypercar dari Arab. Menurut klaim, W Motors Lykan Hypersport memiliki kecepatan maksimal 394 kmh. Akselesari dari 0-100 kmh hanya dalam waktu 2,8 detik.</item>
+        <item>Bagi kebanyakan orang, supercar pasti sudah termasuk dalam kasta tertinggi dalam dunia permobilan. Namanya saja supercar, pasti selain modelnya yang futuristik, performanya juga top di kelasnya. Namun, masih ada lagi kasta yang lebih tinggi dari supercar, yaitu hybrid. Salah satu contoh mobil hybrid yang juga menjadi salah satu mobil termahal dunia adalah Aston Martin Valkyrie.Aston Martin Valkyrie adalah mobil hybrid termahal dunia ketujuh. Aston Martin Valkyrie bergerak dari tenaga listrik. Meski ditenagai listrik, bukan berarti mobil ini lambat, Aston Martin Valkyrie bermesin 6.5 liter V12 dengan perbandingan power-to-weight ratio mencapai 1:1. Mobil ini dijual dengan harga 3,2 juta USD.</item>
+        <item>Ferrari, perusahaan pembuat mobil sport asal Itali yang terkenal. Ferrari sempat membuat sebuah mobil konsep pada tahun 2013 yang diberi nama Pininfarina. Pininfarina sendiri merupakan nama perusahaan desain legendaris yang juga berasal dari Itali. Dari konsep tersebut, akhirnya mobil tersebut benar-benar dibuat.Ferrari Pininfarina Sergio,, itulah nama yang diberikan Ferrari untuk mobil ciptaannya tersebut. Sejauh ini, Ferrari baru memproduksi sedikit Pininfarina. Dengan basik mesin Ferrari 458 Spider 4,5 liter F136F V8, mobil ini bisa memproduksi tenaga hingga 562 hp. Baru diproduksi sebanyak 6 unit, satu Ferrari Pininfarina Sergio dijual dengan harga 3 juta USD.</item>
+        <item>Ketika pertama kali didirikan pada tahun 1909, mantan presiden Volkswagen meminta agar Bugatti menciptakan mobil-mobil yang super kencang. Dari sanalah, Bugatti sampai sekarang tak pernah berhenti menciptakan mobil kencang. Dan Bugatti Chiron adalah salah satu hasil ciptaan pabrikan asal Perancis tersebut.Oleh Bugatti, Chiron dikatakan mampu berlari sampai kecepatan maksimum 420 kmh. Kecepatan tersebut diraih berkar mesin 8.0 liter W-16. Mesin tersebut mampu memproduksi tenaga yang mencapai 1.500 hp. Tentu dengan kecepatan seperti itu, harga Chiron tidaklah murah. Oleh Bugatti, Chiron dijual dengan harga 2,9 juta USD.</item>
+        <item>Bermesin twin-turbo 5,0 liter V8, Koenigsegg One:1 adalah sebuah mobil yang super cepat. Dari mesin tersebut, dihasilkan tenaga sebesar 1.340 hp dan torque 740 lb. Koenigsegg One: 1 bisa mencapai kecepatan maksimumnya, 300 kmh dari diam, hanya dalam waktu 11,922 detik. Terima kasih karena material Koenigsegg One:1 yang terbuat dari karbon.Berbicara soal harga, meski Koenigsegg One:1 berada di urutan 10 daftar mobil termahal dunia 2018, harga mobil ini bisa cukup untuk kalian membeli sebuah rumah yang bagus, itupun juga masih ada sisa banyak. Koenigsegg One:1 dijual dengan harga  2,85 juta USD. Sungguh sebuah harga yang wajar untuk sebuah supercar sekelas Koenigsegg One:1.</item>
+    </string-array>
+
+    <array name="gambarMobil">
+        <item>@drawable/g1</item>
+        <item>@drawable/g2</item>
+        <item>@drawable/g3</item>
+        <item>@drawable/g4</item>
+        <item>@drawable/g5</item>
+        <item>@drawable/g6</item>
+        <item>@drawable/g7</item>
+        <item>@drawable/g8</item>
+        <item>@drawable/g9</item>
+        <item>@drawable/g10</item>
+    </array>
+</resources>
